@@ -3,11 +3,17 @@ A simple path planner between nodes on a grid (representing a warehouse/ factory
 Open the solution file "CPfinal.sln" with Visual Studio.
 
 The robot moves through a grid from a start waypoint to an end waypoint with waypoints in between (waypoints are also refered to as nodes). The robot traverses these waypoints in order (0,1,2....k). The Dijkstra algorithm is used to decide whether it is faster to skip a waypoint or not. There are 2 time values used for the decision:
-1) The time taken to travel between node (the movespeed of the robot is constant)
+1) The time taken to travel between nodes (the movespeed of the robot is constant)
 2) the constant waiting time assigned to each node (currently 10s, can be changed)
 
+The following values can be changed (at the beginning of the main() function):
+1) the grid size
+2) start and end positiong
+3) the robot speed (determines the travel time between nodes)
+4) the wait time at each node
+
 Here is an image outlining the problem:
-![Alt text](/visualrepresentation.jpg?raw=true "Visual Representation of Problem")
+![Alt text](/visualrepresentation.PNG?raw=true "Visual Representation of Problem")
 
 Here is some sample input:
 3
