@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  CPfinal.cpp
-c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(15): warning C4018: '<': signed/unsigned mismatch
-c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(174): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  CPfinal.vcxproj -> C:\Users\Udit\source\repos\CPfinal\Debug\CPfinal.exe
