@@ -1,0 +1,15 @@
+﻿  CPfinal.cpp
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(41): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(138): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(141): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(177): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\udit\source\repos\cpfinal\cpfinal\cpfinal.cpp(229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CPfinal.vcxproj -> C:\Users\Udit\source\repos\CPfinal\Debug\CPfinal.exe
