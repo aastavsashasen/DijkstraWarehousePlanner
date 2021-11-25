@@ -15,6 +15,8 @@ The following values can be changed (at the beginning of the main() function):
 Here is an image outlining the problem:
 ![Alt text](/visualrepresentation.PNG?raw=true "Visual Representation of Problem")
 
+The above shows a rather simple problem with 3 intermediate nodes where no skips are made. However, for a large number of nodes the problem becomes more complex andmany nodes may be skipped.
+
 Here is some sample input:\
 3\
 30 30 90\
@@ -22,7 +24,7 @@ Here is some sample input:\
 10 90 100
 
 which means:\
-3 nodes\
+3 intermediate nodes\
 node 1: x = 30, y = 30, wait time at node = 90\
 node 2: x = 60, y = 60, wait time at node = 80\
 node 3: x = 10, y = 90, wait time at node = 100
