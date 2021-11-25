@@ -7,7 +7,7 @@ The robot moves through a grid from a start waypoint to an end waypoint with way
 2) the constant waiting time assigned to each node (currently 10s, can be changed)
 
 Here is an image outlining the problem:
-
+![Alt text](/visualrepresentation.jpg?raw=true "Visual Representation of Problem")
 
 Here is some sample input:
 3
