@@ -15,20 +15,20 @@ The following values can be changed (at the beginning of the main() function):
 Here is an image outlining the problem:
 ![Alt text](/visualrepresentation.PNG?raw=true "Visual Representation of Problem")
 
-Here is some sample input:
-3
-30 30 90
-60 60 80
-10 90 100
+Here is some sample input:\
+3\
+30 30 90\
+60 60 80\
+10 90 100\
 
-which means:
-3 nodes
-node 1: x = 30, y = 30, wait time at node = 90
-node 2: x = 60, y = 60, wait time at node = 80
-node 3: x = 10, y = 90, wait time at node = 100
+which means:\
+3 nodes\
+node 1: x = 30, y = 30, wait time at node = 90\
+node 2: x = 60, y = 60, wait time at node = 80\
+node 3: x = 10, y = 90, wait time at node = 100\
 
-and the sample output:
+and the sample output:\
 156.858
 
-which means:
+which means:\
 156.858 seconds to travel from the initial position to the final position
